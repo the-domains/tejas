@@ -2,12 +2,13 @@ name: tejas
 favicon: null
 layout_spectrum: 0.5711806402541697
 typography_spectrum: 0.17795884958468378
+title: 'An Ashtanga Yoga School In Houston,TX'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-119127-3
   facebook: null
   twitter: null
 opengraph:
