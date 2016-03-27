@@ -1,7 +1,7 @@
 name: Tejas Yoga
 favicon: null
-layout_spectrum: 0.90592
-typography_spectrum: 0.65506
+layout_spectrum: 0.3713
+typography_spectrum: 0.11683
 title: 'An Ashtanga Yoga School In Houston,TX'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f8b1b7'
-    - '#0e0603'
-    - '#a47b69'
-    - '#51464a'
-    - '#c04f2d'
-  brandStrength: 0.5595491717103869
+    - '#fefefe'
+    - '#081118'
+    - '#6a4a3b'
+    - '#b1d0d2'
+    - '#94a0a9'
+  brandStrength: 0.75
   lightness: 0.551460082642734
   saturation: 0.8449758016504347
   rhythmicContrast: 0.75
