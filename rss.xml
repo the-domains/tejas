@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tejas]]></title>
-        <description><![CDATA[tejas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[An Ashtanga Yoga School In Houston,TX]]></title>
+        <description><![CDATA[An Ashtanga Yoga School In Houston,TX]]></description>
+        <link>https://thegrid.ai/tejas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 00:06:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 00:20:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tejas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8ccb02f-ab40-41fb-81c1-63204c420ec2.jpg">]]></description>
-            <link>undefinede2278c8c-0d76-499d-a417-c14dfade389d/index.html</link>
+            <link>https://thegrid.ai/tejas/e2278c8c-0d76-499d-a417-c14dfade389d/index.html</link>
             <guid isPermaLink="false">e2278c8c-0d76-499d-a417-c14dfade389d</guid>
-            <pubDate>Sun, 27 Mar 2016 00:06:32 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 00:19:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
